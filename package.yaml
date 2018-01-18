@@ -7,7 +7,8 @@ maintainer:          "dan@dpitt.me"
 copyright:           "dan pittman, 2017"
 
 extra-source-files:
-   - readme.md
+  - readme.md
+  - LICENSE
 
 dependencies:
   - base >= 4.7 && < 5
